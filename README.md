@@ -1,2 +1,2 @@
 # vending-low-layer
-sofware for electronic 
+module for interaction with the engine and refrigerator
